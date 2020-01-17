@@ -1,0 +1,49 @@
+/* Pakeista fono spalva */
+body {
+	background-color: #ffe6ff
+}
+
+/* 3 antraščių skirtingos spalvos ir sucentravimas. */
+h2 {
+	color: #800080;
+	text-align: center;
+}
+
+h3 {
+	color: #e600e6;
+	text-align: center;
+}
+
+h4 {
+	color: #ff99ff;
+	text-align: center;
+}
+
+/* Paragrafo <p> color, font-size, font-family, width, height */
+p {
+	color: #ff0080;
+	font-size: 36px;
+	font-family: 'Dancing Script', cursive;
+	width: 100%;
+	height: 50px;
+}
+
+/* Lentelė (border-style, background-color, padding) */
+
+table {
+	border-style: solid;
+	background-color: #ffe6ff;
+	padding: 20px;
+}
+
+/* antraščių eilutės pagrindui (<th>) parinkta kita teksto spalva */
+table th {
+	color: #d580ff;
+}
+
+/* Paveikslėlių pakeitimas su vienodais matmenimis, su 20px tarpu (width, height, margin) */
+img {
+	width: 312px;
+	height: 356px;
+	margin: 20px;
+}
